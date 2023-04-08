@@ -135,6 +135,7 @@ independent <- cleandata %>%
                      .names = "mean_{.col}"),
               .groups = "drop")
 
-# 2023-04-08 09:24  draft completed
-2023-04-08 09:39
+# 2023-04-08 09:24 draft completed
+# 2023-04-08 09:39 github sync
+# 2023-04-09 07:08 final versison completd
 
