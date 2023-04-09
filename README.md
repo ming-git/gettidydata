@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project
 
-## github url
+## Github url
 [Github ssh url](git@github.com:ming-git/gettidydata.git) or
 [Github https url](https://github.com/ming-git/gettidydata.git)
 ## Introduction
