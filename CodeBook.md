@@ -39,7 +39,7 @@ The following steps were performed to clean and process the data:
 4.2 select the column with mean and std contained. 
 
 ###  5. anothe tidy data, independant (180 obs of 88 var.)
-creates a second, independent tidy data set named independant 
+creates a second independent tidydata set named independent (180 obs of 88 var.)
 with the average of each variable for each activity and each subject.
 
 ## log
