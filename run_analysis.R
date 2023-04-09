@@ -113,7 +113,7 @@ test <- cbind(testSubject,testY,testX)
 
 #  4.MERGE TEST AND TRAIN DATA ----
 ## 4.1 merge the train data and test data
-dataall <- rbind(train,test) # 10299 row and 88
+dataall <- rbind(train,test) # 10299 row and 563 variable
 
 ## 4.2 select the column with mean and std contained.
 cleandata <- dataall %>%
