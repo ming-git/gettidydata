@@ -10,13 +10,17 @@ The data used for this project is the Human Activity Recognition Using Smartphon
 
 [Human Activity Recognition Using Smartphones Dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-You have to 
+## Dependencies
+
+List of any dependencies or packages required to run the script.
+- dplyr
+- tidyr
 
 ## Script: run_analysis.R
 
 The `run_analysis.R` script performs the following steps:
 
-see CodeaBook.md part of Transformations
+see `CodeaBook.md` part of Transformations
 
 ## How to use the script
 
