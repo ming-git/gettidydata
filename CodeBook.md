@@ -32,7 +32,7 @@ The data was collected from the accelerometers of Samsung Galaxy S smartphones. 
 2023-04-08 run_analysis.R completed<br>
 2023-04-09 CodeBook.md, README.md completed
 
-## 86 feature mean (cont. of ##Variables)
+## 86 feature mean (cont. of ## Variables)
 - mean_tBodyAcc-mean()-X:  
 - mean_tBodyAcc-mean()-Y:  
 - mean_tBodyAcc-mean()-Z:  
