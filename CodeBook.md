@@ -43,6 +43,6 @@ creates a second, independent tidy data set named independant
 with the average of each variable for each activity and each subject.
 
 ## log
-2023-04-03 begain course project
-2023-04-08 run_analysis.R completed
+2023-04-03 begain course project<br>
+2023-04-08 run_analysis.R completed<br>
 2023-04-09 CodeBook.md, README.md completed
