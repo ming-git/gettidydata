@@ -3,6 +3,7 @@
 ## Github url
 [Github ssh url](git@github.com:ming-git/gettidydata.git) or
 [Github https url](https://github.com/ming-git/gettidydata.git)
+
 ## Introduction
 
 This repository contains the project files for the Getting and Cleaning Data Course on Coursera. The goal of the project is to demonstrate the ability to collect, work with, and clean a dataset.
